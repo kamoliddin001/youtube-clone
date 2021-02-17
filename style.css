@@ -1,0 +1,39 @@
+header nav div {
+    display: inline-block;
+}
+
+.center-nav {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.fa-bars {
+    margin-right: 20px;
+}
+.bold {
+font-weight: 900;
+}
+
+.border {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 0;
+}
+input {
+    border: none;
+    outline: none;
+    width: 300px;
+}
+
+.lupa {
+    padding: 6.5px 15px 5px;
+    margin-left: -4px;
+
+}
+
+.fa-microphone {
+    margin-left: 15px;
+}
+
+.right-nav i {
+    margin: 5px;
+}
