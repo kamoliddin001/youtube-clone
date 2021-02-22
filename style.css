@@ -4,7 +4,7 @@ header nav div {
 
 .center-nav {
     margin-left: 200px;
-    margin-right: 200px;
+    margin-right: 100px;
 }
 .fa-bars {
     margin-right: 20px;
@@ -13,27 +13,139 @@ header nav div {
 font-weight: 900;
 }
 
-.border {
-    border: 1px solid #ccc;
-    padding: 5px;
-    margin: 0;
+.fa-youtube {
+    color: red;
 }
+
 input {
     border: none;
     outline: none;
-    width: 300px;
+    width: 400px;
 }
 
 .lupa {
     padding: 6.5px 15px 5px;
     margin-left: -4px;
-
 }
 
 .fa-microphone {
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
 .right-nav i {
     margin: 5px;
+} 
+
+.prosmotr,
+.data {
+    display: inline-block;
+    font-size: 12px;
+    color: rgb(126, 118, 118);
+    /* margin-bottom: 0px; */
 }
+
+.video {
+    margin-top: 18px;
+    width: 598px;
+    height: 298px; 
+}
+
+main div {
+    display: inline-block;
+}
+
+.thumbs,
+.share,
+.ellips {
+    color: rgb(126, 118, 118);
+    font-size: 16px;
+    cursor: pointer;
+}
+main {
+    background-color: rgb(247, 241, 241);
+    text-decoration: underline;
+    width: 700px;
+    display: inline-block;
+    margin-left: 1px;
+}
+
+.inst-you-sayt {
+    margin-left: 30px;
+    font-size: 13px;
+}
+
+.border {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 0;
+}
+
+.data {
+    margin-right:120px ;
+    margin-bottom: 10px;
+}
+
+.fa-check-circle {
+    color: rgb(243, 240, 240) ;
+    font-size: 10px;
+}
+main div img {
+    float: left;
+    border-radius: 50%;
+    width: 40%;
+}
+
+.RizaNovaUZ {
+    font-size: 13px;
+    /* font: weight 700px ; */
+    cursor: pointer;
+    /* margin-top: 0px; */
+    /* margin-bottom: 0px; */
+}
+
+.podpischiki {
+    font-size: 11px;
+    color: rgb(126, 118, 118);
+    margin-top: 0px;
+}
+
+footer div button {
+    background-color: #c00;
+    border: none;
+    padding: 10px;
+    color: white;
+    margin-left: 430px;
+    font-size: 10px;
+     font-weight: 700;
+}
+
+.uy,
+.тысяч {
+    color: blue;
+}
+
+.тысяч { 
+    text-decoration: underline;
+}
+
+* {
+    /* border: 1px solid red; */
+}
+
+aside {
+    background-color: aqua ;
+    height: 280px;
+    float: right;
+    width: 338px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
