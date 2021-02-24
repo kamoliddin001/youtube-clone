@@ -4,7 +4,7 @@ header nav div {
 
 .center-nav {
     margin-left: 200px;
-    margin-right: 100px;
+    margin-right: 90px;
 }
 .fa-bars {
     margin-right: 20px;
@@ -25,7 +25,8 @@ input {
 
 .lupa {
     padding: 6.5px 15px 5px;
-    margin-left: -4px;
+    /* margin-left: -4px; */
+
 }
 
 .fa-microphone {
@@ -33,26 +34,14 @@ input {
 }
 
 .right-nav i {
-    margin: 5px;
+    margin: 3px;
 } 
-
-.prosmotr,
-.data {
-    display: inline-block;
-    font-size: 12px;
-    color: rgb(126, 118, 118);
-    /* margin-bottom: 0px; */
-}
 
 .video {
     margin-top: 18px;
     width: 598px;
-    height: 298px; 
-}
-
-main div {
-    display: inline-block;
-}
+    height: 308px; 
+}   
 
 .thumbs,
 .share,
@@ -62,16 +51,11 @@ main div {
     cursor: pointer;
 }
 main {
-    background-color: rgb(247, 241, 241);
-    text-decoration: underline;
+    
+    background-color: rgb(253, 247, 247);
     width: 700px;
     display: inline-block;
     margin-left: 1px;
-}
-
-.inst-you-sayt {
-    margin-left: 30px;
-    font-size: 13px;
 }
 
 .border {
@@ -80,27 +64,9 @@ main {
     margin: 0;
 }
 
-.data {
-    margin-right:120px ;
-    margin-bottom: 10px;
-}
-
 .fa-check-circle {
     color: rgb(243, 240, 240) ;
     font-size: 10px;
-}
-main div img {
-    float: left;
-    border-radius: 50%;
-    width: 40%;
-}
-
-.RizaNovaUZ {
-    font-size: 13px;
-    /* font: weight 700px ; */
-    cursor: pointer;
-    /* margin-top: 0px; */
-    /* margin-bottom: 0px; */
 }
 
 .podpischiki {
@@ -109,37 +75,157 @@ main div img {
     margin-top: 0px;
 }
 
-footer div button {
-    background-color: #c00;
-    border: none;
-    padding: 10px;
-    color: white;
-    margin-left: 430px;
+.pros-data {
+    float: left;
+    font-size: 13px;
+}
+.xxx {
+    float: right;
     font-size: 10px;
-     font-weight: 700;
 }
 
-.uy,
-.тысяч {
-    color: blue;
+.div-glav {
+    border-bottom: 1px solid red;
+;
+
 }
 
-.тысяч { 
-    text-decoration: underline;
+.imgine {
+    float: left;
+    border-radius: 50%;
+}
+button {
+    float: right;
+    padding: 5px 10px;
+    /* width: 200px; */
+    clear: both;
+}
+p {
+    margin-left: 70px;
+}
+.shax {
+    margin-bottom: 0px;
+    width: 300px;
+}
+.podpis {
+    margin-top: 0px;
+    /* width: 300px; */
 }
 
-* {
-    /* border: 1px solid red; */
+.fa-align-right {
+    margin-left: 25px;
+}
+
+.com {
+    margin-left: 20px;
+}
+
+.Ilgar {
+    width: 35px;
+    border-radius: 50%;
+    float: left;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.foto-comment {
+    margin-right: 1px;
+}
+
+.mamedov {
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-family: Roboto, Arial, sans-serif;
+}
+.azer {
+    margin-top: 8px;
+    font-size: 12px;
+    font-family: Roboto, Arial, sans-serif;
+    
+}
+.spane {
+    font-weight: bold ;
+}
+
+.like-dislike {
+    font-size: 12px;
+    color: rgb(77, 73, 73);
+    margin-bottom: 5px;
+}
+
+.javoblar {
+    margin-top: 5px;
+    color: rgb(24, 102, 180);
+    font-size: 13px;
+    font-weight: 900;
+}
+
+.fa-thumbs-up {
+    margin-right: 10px;
+}
+
+.fa-thumbs-down {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.fa-caret-down {
+    margin-right: 10px;
+}
+
+.comments-one {
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
 }
 
 aside {
-    background-color: aqua ;
-    height: 280px;
+    background-color: rgb(253, 247, 247);
+    height: 500px;
     float: right;
-    width: 338px;
+    width: 339px;
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 9px;
 }
+
+.shaxzoda {
+    float: left;
+    width: 150px;
+    margin-left: 8px;
+    margin-right: 4px;
+}
+
+.ming-shukr {
+    font-size: 13px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+.Riza {
+    font-size: 11px;
+    color: darkgrey;
+    margin-top: 4px;
+    margin-bottom: 2px;
+}
+
+.fa-check-circle {
+    color: rgb(88, 90, 90);
+}
+
+.mln-prosmotr,
+.mesyats {
+    font-size: 11px;
+    color: darkgrey; 
+    margin-bottom: 3px;
+    margin-top: 3px; 
+
+}
+
+
+
+
+
+
+
 
 
 
